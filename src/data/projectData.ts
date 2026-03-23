@@ -99,7 +99,7 @@ export const projectData: ProjectPageData = {
   links: [
     { label: 'Live App', url: 'https://orchid.masudlewis.com', primary: true },
     { label: 'GitHub Repo', url: 'https://github.com/masudl-hub/orchidcare' },
-    { label: 'Technical Report', url: '/project-assets/technical-report.md' },
+    { label: 'Technical Report', url: '/project-assets/report.pdf' },
   ],
 
   badges: [
